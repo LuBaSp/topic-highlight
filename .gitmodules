@@ -1,0 +1,3 @@
+[submodule "material/yolov5"]
+	path = material/yolov5
+	url = https://github.com/ultralytics/yolov5
