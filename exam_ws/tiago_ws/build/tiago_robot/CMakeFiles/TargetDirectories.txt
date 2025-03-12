@@ -1,0 +1,9 @@
+/home/luca/topic-highlight/exam_ws/build/tiago_robot/CMakeFiles/uninstall.dir
+/home/luca/topic-highlight/exam_ws/build/tiago_robot/CMakeFiles/tiago_robot_uninstall.dir
+/home/luca/topic-highlight/exam_ws/build/tiago_robot/CMakeFiles/test.dir
+/home/luca/topic-highlight/exam_ws/build/tiago_robot/CMakeFiles/edit_cache.dir
+/home/luca/topic-highlight/exam_ws/build/tiago_robot/CMakeFiles/rebuild_cache.dir
+/home/luca/topic-highlight/exam_ws/build/tiago_robot/CMakeFiles/list_install_components.dir
+/home/luca/topic-highlight/exam_ws/build/tiago_robot/CMakeFiles/install.dir
+/home/luca/topic-highlight/exam_ws/build/tiago_robot/CMakeFiles/install/local.dir
+/home/luca/topic-highlight/exam_ws/build/tiago_robot/CMakeFiles/install/strip.dir

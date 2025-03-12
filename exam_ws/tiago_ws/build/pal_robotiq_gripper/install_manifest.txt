@@ -1,0 +1,15 @@
+/home/luca/topic-highlight/exam_ws/install/pal_robotiq_gripper/share/ament_index/resource_index/package_run_dependencies/pal_robotiq_gripper
+/home/luca/topic-highlight/exam_ws/install/pal_robotiq_gripper/share/ament_index/resource_index/parent_prefix_path/pal_robotiq_gripper
+/home/luca/topic-highlight/exam_ws/install/pal_robotiq_gripper/share/pal_robotiq_gripper/environment/ament_prefix_path.sh
+/home/luca/topic-highlight/exam_ws/install/pal_robotiq_gripper/share/pal_robotiq_gripper/environment/ament_prefix_path.dsv
+/home/luca/topic-highlight/exam_ws/install/pal_robotiq_gripper/share/pal_robotiq_gripper/environment/path.sh
+/home/luca/topic-highlight/exam_ws/install/pal_robotiq_gripper/share/pal_robotiq_gripper/environment/path.dsv
+/home/luca/topic-highlight/exam_ws/install/pal_robotiq_gripper/share/pal_robotiq_gripper/local_setup.bash
+/home/luca/topic-highlight/exam_ws/install/pal_robotiq_gripper/share/pal_robotiq_gripper/local_setup.sh
+/home/luca/topic-highlight/exam_ws/install/pal_robotiq_gripper/share/pal_robotiq_gripper/local_setup.zsh
+/home/luca/topic-highlight/exam_ws/install/pal_robotiq_gripper/share/pal_robotiq_gripper/local_setup.dsv
+/home/luca/topic-highlight/exam_ws/install/pal_robotiq_gripper/share/pal_robotiq_gripper/package.dsv
+/home/luca/topic-highlight/exam_ws/install/pal_robotiq_gripper/share/ament_index/resource_index/packages/pal_robotiq_gripper
+/home/luca/topic-highlight/exam_ws/install/pal_robotiq_gripper/share/pal_robotiq_gripper/cmake/pal_robotiq_gripperConfig.cmake
+/home/luca/topic-highlight/exam_ws/install/pal_robotiq_gripper/share/pal_robotiq_gripper/cmake/pal_robotiq_gripperConfig-version.cmake
+/home/luca/topic-highlight/exam_ws/install/pal_robotiq_gripper/share/pal_robotiq_gripper/package.xml

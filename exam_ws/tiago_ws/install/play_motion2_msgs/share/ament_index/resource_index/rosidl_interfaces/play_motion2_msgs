@@ -1,0 +1,10 @@
+action/PlayMotion2.action
+action/PlayMotion2.idl
+srv/IsMotionReady.idl
+srv/IsMotionReady.srv
+srv/IsMotionReady_Request.msg
+srv/IsMotionReady_Response.msg
+srv/ListMotions.idl
+srv/ListMotions.srv
+srv/ListMotions_Request.msg
+srv/ListMotions_Response.msg

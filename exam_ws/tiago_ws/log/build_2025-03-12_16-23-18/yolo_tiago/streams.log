@@ -1,0 +1,35 @@
+[1.302s] Invoking command in '/home/luca/topic-highlight/exam_ws/src/yolo_tiago': PYTHONPATH=/home/luca/topic-highlight/exam_ws/build/yolo_tiago/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/luca/topic-highlight/exam_ws/install/yolo_tiago/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/yolo_tiago build --build-base /home/luca/topic-highlight/exam_ws/build/yolo_tiago/build install --record /home/luca/topic-highlight/exam_ws/build/yolo_tiago/install.log --single-version-externally-managed install_data
+[1.457s] /home/luca/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:270: UserWarning: Unknown distribution option: 'tests_require'
+[1.458s]   warnings.warn(msg)
+[1.540s] running egg_info
+[1.554s] creating ../../build/yolo_tiago/yolo_tiago.egg-info
+[1.554s] writing ../../build/yolo_tiago/yolo_tiago.egg-info/PKG-INFO
+[1.555s] writing dependency_links to ../../build/yolo_tiago/yolo_tiago.egg-info/dependency_links.txt
+[1.555s] writing entry points to ../../build/yolo_tiago/yolo_tiago.egg-info/entry_points.txt
+[1.555s] writing requirements to ../../build/yolo_tiago/yolo_tiago.egg-info/requires.txt
+[1.556s] writing top-level names to ../../build/yolo_tiago/yolo_tiago.egg-info/top_level.txt
+[1.556s] writing manifest file '../../build/yolo_tiago/yolo_tiago.egg-info/SOURCES.txt'
+[1.601s] reading manifest file '../../build/yolo_tiago/yolo_tiago.egg-info/SOURCES.txt'
+[1.603s] writing manifest file '../../build/yolo_tiago/yolo_tiago.egg-info/SOURCES.txt'
+[1.603s] running build
+[1.603s] running build_py
+[1.604s] creating /home/luca/topic-highlight/exam_ws/build/yolo_tiago/build/lib/yolo_tiago
+[1.605s] copying yolo_tiago/__init__.py -> /home/luca/topic-highlight/exam_ws/build/yolo_tiago/build/lib/yolo_tiago
+[1.605s] copying yolo_tiago/yolo_tiago_node.py -> /home/luca/topic-highlight/exam_ws/build/yolo_tiago/build/lib/yolo_tiago
+[1.605s] running install
+[1.611s] running install_lib
+[1.639s] creating /home/luca/topic-highlight/exam_ws/install/yolo_tiago/lib/python3.10/site-packages/yolo_tiago
+[1.640s] copying /home/luca/topic-highlight/exam_ws/build/yolo_tiago/build/lib/yolo_tiago/__init__.py -> /home/luca/topic-highlight/exam_ws/install/yolo_tiago/lib/python3.10/site-packages/yolo_tiago
+[1.640s] copying /home/luca/topic-highlight/exam_ws/build/yolo_tiago/build/lib/yolo_tiago/yolo_tiago_node.py -> /home/luca/topic-highlight/exam_ws/install/yolo_tiago/lib/python3.10/site-packages/yolo_tiago
+[1.641s] byte-compiling /home/luca/topic-highlight/exam_ws/install/yolo_tiago/lib/python3.10/site-packages/yolo_tiago/__init__.py to __init__.cpython-310.pyc
+[1.641s] byte-compiling /home/luca/topic-highlight/exam_ws/install/yolo_tiago/lib/python3.10/site-packages/yolo_tiago/yolo_tiago_node.py to yolo_tiago_node.cpython-310.pyc
+[1.642s] running install_data
+[1.643s] creating /home/luca/topic-highlight/exam_ws/install/yolo_tiago/share/ament_index/resource_index/packages
+[1.643s] copying resource/yolo_tiago -> /home/luca/topic-highlight/exam_ws/install/yolo_tiago/share/ament_index/resource_index/packages
+[1.644s] copying package.xml -> /home/luca/topic-highlight/exam_ws/install/yolo_tiago/share/yolo_tiago
+[1.644s] running install_egg_info
+[1.661s] Copying ../../build/yolo_tiago/yolo_tiago.egg-info to /home/luca/topic-highlight/exam_ws/install/yolo_tiago/lib/python3.10/site-packages/yolo_tiago-0.0.0-py3.10.egg-info
+[1.662s] running install_scripts
+[1.836s] Installing yolo_tiago_node script to /home/luca/topic-highlight/exam_ws/install/yolo_tiago/lib/yolo_tiago
+[1.837s] writing list of installed files to '/home/luca/topic-highlight/exam_ws/build/yolo_tiago/install.log'
+[1.877s] Invoked command in '/home/luca/topic-highlight/exam_ws/src/yolo_tiago' returned '0': PYTHONPATH=/home/luca/topic-highlight/exam_ws/build/yolo_tiago/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/luca/topic-highlight/exam_ws/install/yolo_tiago/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/yolo_tiago build --build-base /home/luca/topic-highlight/exam_ws/build/yolo_tiago/build install --record /home/luca/topic-highlight/exam_ws/build/yolo_tiago/install.log --single-version-externally-managed install_data

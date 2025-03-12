@@ -1,0 +1,8 @@
+{
+  "package_name": "play_motion2_msgs",
+  "non_idl_tuples": [
+    "/home/luca/topic-highlight/exam_ws/src/play_motion2/play_motion2_msgs:action/PlayMotion2.action",
+    "/home/luca/topic-highlight/exam_ws/src/play_motion2/play_motion2_msgs:srv/IsMotionReady.srv",
+    "/home/luca/topic-highlight/exam_ws/src/play_motion2/play_motion2_msgs:srv/ListMotions.srv"
+  ]
+}

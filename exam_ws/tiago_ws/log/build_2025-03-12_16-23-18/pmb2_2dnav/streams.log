@@ -1,0 +1,57 @@
+[0.014s] Invoking command in '/home/luca/topic-highlight/exam_ws/build/pmb2_2dnav': AMENT_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/pmb2_maps:/home/luca/topic-highlight/exam_ws/install/pmb2_laser_sensors:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/pmb2_maps:/home/luca/topic-highlight/exam_ws/install/pmb2_laser_sensors:/opt/ros/humble /usr/bin/cmake /home/luca/topic-highlight/exam_ws/src/pmb2_navigation/pmb2_2dnav -DCMAKE_INSTALL_PREFIX=/home/luca/topic-highlight/exam_ws/install/pmb2_2dnav
+[0.065s] -- The C compiler identification is GNU 11.4.0
+[0.116s] -- The CXX compiler identification is GNU 11.4.0
+[0.122s] -- Detecting C compiler ABI info
+[0.187s] -- Detecting C compiler ABI info - done
+[0.194s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.194s] -- Detecting C compile features
+[0.194s] -- Detecting C compile features - done
+[0.197s] -- Detecting CXX compiler ABI info
+[0.289s] -- Detecting CXX compiler ABI info - done
+[0.297s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.297s] -- Detecting CXX compile features
+[0.298s] -- Detecting CXX compile features - done
+[0.300s] -- Found ament_cmake_auto: 1.3.11 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[0.776s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.951s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.972s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.975s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.976s] -- Added test 'lint_cmake' to check CMake code style
+[0.977s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.980s] -- Added test 'xmllint' to check XML markup files
+[0.980s] -- Configuring done
+[0.984s] -- Generating done
+[0.987s] -- Build files have been written to: /home/luca/topic-highlight/exam_ws/build/pmb2_2dnav
+[0.992s] Invoked command in '/home/luca/topic-highlight/exam_ws/build/pmb2_2dnav' returned '0': AMENT_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/pmb2_maps:/home/luca/topic-highlight/exam_ws/install/pmb2_laser_sensors:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/pmb2_maps:/home/luca/topic-highlight/exam_ws/install/pmb2_laser_sensors:/opt/ros/humble /usr/bin/cmake /home/luca/topic-highlight/exam_ws/src/pmb2_navigation/pmb2_2dnav -DCMAKE_INSTALL_PREFIX=/home/luca/topic-highlight/exam_ws/install/pmb2_2dnav
+[0.994s] Invoking command in '/home/luca/topic-highlight/exam_ws/build/pmb2_2dnav': AMENT_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/pmb2_maps:/home/luca/topic-highlight/exam_ws/install/pmb2_laser_sensors:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/pmb2_maps:/home/luca/topic-highlight/exam_ws/install/pmb2_laser_sensors:/opt/ros/humble /usr/bin/cmake --build /home/luca/topic-highlight/exam_ws/build/pmb2_2dnav -- -j20 -l20
+[1.031s] Invoked command in '/home/luca/topic-highlight/exam_ws/build/pmb2_2dnav' returned '0': AMENT_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/pmb2_maps:/home/luca/topic-highlight/exam_ws/install/pmb2_laser_sensors:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/pmb2_maps:/home/luca/topic-highlight/exam_ws/install/pmb2_laser_sensors:/opt/ros/humble /usr/bin/cmake --build /home/luca/topic-highlight/exam_ws/build/pmb2_2dnav -- -j20 -l20
+[1.033s] Invoking command in '/home/luca/topic-highlight/exam_ws/build/pmb2_2dnav': AMENT_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/pmb2_maps:/home/luca/topic-highlight/exam_ws/install/pmb2_laser_sensors:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/pmb2_maps:/home/luca/topic-highlight/exam_ws/install/pmb2_laser_sensors:/opt/ros/humble /usr/bin/cmake --install /home/luca/topic-highlight/exam_ws/build/pmb2_2dnav
+[1.038s] -- Install configuration: ""
+[1.038s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/pmb2_2dnav/config
+[1.038s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/pmb2_2dnav/config/rviz
+[1.038s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/pmb2_2dnav/config/rviz/navigation.rviz
+[1.039s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/pmb2_2dnav/config/rviz/advanced_navigation.rviz
+[1.039s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/pmb2_2dnav/launch
+[1.039s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/pmb2_2dnav/launch/pmb2_nav_bringup.launch.py
+[1.039s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/pmb2_2dnav/params
+[1.039s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/pmb2_2dnav/params/pmb2_nav.yaml
+[1.039s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/pmb2_2dnav/params/pmb2_nav_public_sim.yaml
+[1.039s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/pmb2_2dnav/params/pmb2_nav_w_composition.yaml
+[1.040s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/pmb2_2dnav/params/pmb2_remappings.yaml
+[1.040s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/pmb2_2dnav/params/pmb2_remappings_sim.yaml
+[1.040s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/ament_index/resource_index/package_run_dependencies/pmb2_2dnav
+[1.040s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/ament_index/resource_index/parent_prefix_path/pmb2_2dnav
+[1.040s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/pmb2_2dnav/environment/ament_prefix_path.sh
+[1.040s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/pmb2_2dnav/environment/ament_prefix_path.dsv
+[1.041s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/pmb2_2dnav/environment/path.sh
+[1.041s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/pmb2_2dnav/environment/path.dsv
+[1.041s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/pmb2_2dnav/local_setup.bash
+[1.041s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/pmb2_2dnav/local_setup.sh
+[1.042s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/pmb2_2dnav/local_setup.zsh
+[1.042s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/pmb2_2dnav/local_setup.dsv
+[1.042s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/pmb2_2dnav/package.dsv
+[1.042s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/ament_index/resource_index/packages/pmb2_2dnav
+[1.042s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/pmb2_2dnav/cmake/pmb2_2dnavConfig.cmake
+[1.042s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/pmb2_2dnav/cmake/pmb2_2dnavConfig-version.cmake
+[1.043s] -- Installing: /home/luca/topic-highlight/exam_ws/install/pmb2_2dnav/share/pmb2_2dnav/package.xml
+[1.059s] Invoked command in '/home/luca/topic-highlight/exam_ws/build/pmb2_2dnav' returned '0': AMENT_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/pmb2_maps:/home/luca/topic-highlight/exam_ws/install/pmb2_laser_sensors:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/pmb2_maps:/home/luca/topic-highlight/exam_ws/install/pmb2_laser_sensors:/opt/ros/humble /usr/bin/cmake --install /home/luca/topic-highlight/exam_ws/build/pmb2_2dnav

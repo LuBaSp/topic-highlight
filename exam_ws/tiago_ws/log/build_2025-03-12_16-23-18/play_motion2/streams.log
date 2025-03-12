@@ -1,0 +1,132 @@
+[0.008s] Invoking command in '/home/luca/topic-highlight/exam_ws/build/play_motion2': AMENT_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/play_motion2_msgs:/home/luca/topic-highlight/exam_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/play_motion2_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/luca/topic-highlight/exam_ws/install/play_motion2_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/luca/topic-highlight/exam_ws/install/play_motion2_msgs/local/lib/python3.10/dist-packages:/home/luca/topic-highlight/exam_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake /home/luca/topic-highlight/exam_ws/src/play_motion2/play_motion2 -DCMAKE_INSTALL_PREFIX=/home/luca/topic-highlight/exam_ws/install/play_motion2
+[0.048s] -- The C compiler identification is GNU 11.4.0
+[0.089s] -- The CXX compiler identification is GNU 11.4.0
+[0.095s] -- Detecting C compiler ABI info
+[0.144s] -- Detecting C compiler ABI info - done
+[0.150s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.150s] -- Detecting C compile features
+[0.150s] -- Detecting C compile features - done
+[0.152s] -- Detecting CXX compiler ABI info
+[0.214s] -- Detecting CXX compiler ABI info - done
+[0.220s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.220s] -- Detecting CXX compile features
+[0.221s] -- Detecting CXX compile features - done
+[0.222s] -- Found ament_cmake_auto: 1.3.11 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[0.498s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.641s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.644s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.651s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.661s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.673s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.909s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: date_time filesystem program_options system thread 
+[0.989s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: chrono date_time filesystem iostreams program_options regex serialization system thread 
+[1.026s] -- Found parameter_traits: 0.4.0 (/opt/ros/humble/share/parameter_traits/cmake)
+[1.057s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.060s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.126s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.146s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.181s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.188s] -- Found Threads: TRUE  
+[1.222s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[1.224s] -- Found rclcpp_lifecycle: 16.0.11 (/opt/ros/humble/share/rclcpp_lifecycle/cmake)
+[1.236s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: filesystem 
+[1.303s] -- library: /usr/lib/x86_64-linux-gnu/libcurl.so
+[1.328s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[1.433s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system filesystem date_time program_options thread chrono 
+[1.458s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: thread system filesystem regex date_time program_options 
+[1.475s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system filesystem date_time program_options thread 
+[1.611s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[1.628s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[1.632s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[1.632s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.632s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[1.632s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[1.649s] -- Found PythonExtra: .so  
+[1.693s] -- Found gtest sources under '/opt/ros/humble/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[1.824s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.835s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.837s] -- Configured cppcheck include dirs: /home/luca/topic-highlight/exam_ws/src/play_motion2/play_motion2/include
+[1.837s] -- Configured cppcheck exclude dirs and/or files: 
+[1.838s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.838s] -- Configured cpplint exclude dirs and/or files: 
+[1.838s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.839s] -- Added test 'lint_cmake' to check CMake code style
+[1.839s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.840s] -- Added test 'uncrustify' to check C / C++ code style
+[1.840s] -- Configured uncrustify additional arguments: 
+[1.840s] -- Added test 'xmllint' to check XML markup files
+[1.842s] -- Configuring done
+[1.922s] -- Generating done
+[1.944s] -- Build files have been written to: /home/luca/topic-highlight/exam_ws/build/play_motion2
+[1.956s] Invoked command in '/home/luca/topic-highlight/exam_ws/build/play_motion2' returned '0': AMENT_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/play_motion2_msgs:/home/luca/topic-highlight/exam_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/play_motion2_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/luca/topic-highlight/exam_ws/install/play_motion2_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/luca/topic-highlight/exam_ws/install/play_motion2_msgs/local/lib/python3.10/dist-packages:/home/luca/topic-highlight/exam_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake /home/luca/topic-highlight/exam_ws/src/play_motion2/play_motion2 -DCMAKE_INSTALL_PREFIX=/home/luca/topic-highlight/exam_ws/install/play_motion2
+[1.957s] Invoking command in '/home/luca/topic-highlight/exam_ws/build/play_motion2': AMENT_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/play_motion2_msgs:/home/luca/topic-highlight/exam_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/play_motion2_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/luca/topic-highlight/exam_ws/install/play_motion2_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/luca/topic-highlight/exam_ws/install/play_motion2_msgs/local/lib/python3.10/dist-packages:/home/luca/topic-highlight/exam_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/luca/topic-highlight/exam_ws/build/play_motion2 -- -j20 -l20
+[1.996s] [  5%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[1.996s] [ 11%] [32mBuilding CXX object CMakeFiles/play_motion2.dir/src/play_motion2/motion_planner.cpp.o[0m
+[1.996s] [ 16%] [32mBuilding CXX object CMakeFiles/play_motion2.dir/src/play_motion2/motion_loader.cpp.o[0m
+[1.996s] [ 22%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[1.997s] [ 27%] [32mBuilding CXX object CMakeFiles/play_motion2.dir/src/play_motion2/play_motion2.cpp.o[0m
+[2.630s] [ 33%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[2.657s] [ 33%] Built target gtest_main
+[4.257s] [ 38%] [32m[1mLinking CXX static library libgtest.a[0m
+[4.297s] [ 38%] Built target gtest
+[4.311s] [ 44%] [32mBuilding CXX object CMakeFiles/play_motion2_node_test.dir/test/play_motion2_node_test.cpp.o[0m
+[8.332s] [ 50%] [32m[1mLinking CXX executable play_motion2_node_test[0m
+[8.584s] [ 50%] Built target play_motion2_node_test
+[12.717s] [ 55%] [32m[1mLinking CXX shared library libplay_motion2.so[0m
+[13.476s] [ 55%] Built target play_motion2
+[13.490s] [ 61%] [32mBuilding CXX object CMakeFiles/play_motion2_node.dir/src/play_motion2_main.cpp.o[0m
+[13.491s] [ 66%] [32mBuilding CXX object CMakeFiles/rrbot_system.dir/test/rrbot/rrbot_system.cpp.o[0m
+[14.518s] [ 72%] [32m[1mLinking CXX shared library librrbot_system.so[0m
+[14.863s] [ 72%] Built target rrbot_system
+[14.879s] [ 77%] [32mBuilding CXX object CMakeFiles/motion_loader_test.dir/test/motion_loader_test.cpp.o[0m
+[14.879s] [ 83%] [32mBuilding CXX object CMakeFiles/play_motion2_test.dir/test/play_motion2_test.cpp.o[0m
+[17.444s] [ 88%] [32m[1mLinking CXX executable motion_loader_test[0m
+[18.251s] [ 88%] Built target motion_loader_test
+[18.748s] [ 94%] [32m[1mLinking CXX executable play_motion2_node[0m
+[19.288s] [ 94%] Built target play_motion2_node
+[20.905s] [100%] [32m[1mLinking CXX executable play_motion2_test[0m
+[21.653s] [100%] Built target play_motion2_test
+[21.665s] Invoked command in '/home/luca/topic-highlight/exam_ws/build/play_motion2' returned '0': AMENT_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/play_motion2_msgs:/home/luca/topic-highlight/exam_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/play_motion2_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/luca/topic-highlight/exam_ws/install/play_motion2_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/luca/topic-highlight/exam_ws/install/play_motion2_msgs/local/lib/python3.10/dist-packages:/home/luca/topic-highlight/exam_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/luca/topic-highlight/exam_ws/build/play_motion2 -- -j20 -l20
+[21.666s] Invoking command in '/home/luca/topic-highlight/exam_ws/build/play_motion2': AMENT_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/play_motion2_msgs:/home/luca/topic-highlight/exam_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/play_motion2_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/luca/topic-highlight/exam_ws/install/play_motion2_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/luca/topic-highlight/exam_ws/install/play_motion2_msgs/local/lib/python3.10/dist-packages:/home/luca/topic-highlight/exam_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/luca/topic-highlight/exam_ws/build/play_motion2
+[21.672s] -- Install configuration: ""
+[21.672s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/play_motion2/test/rrbot/rrbot_system.xml
+[21.672s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/lib/play_motion2/play_motion2_node_test
+[21.674s] -- Set runtime path of "/home/luca/topic-highlight/exam_ws/install/play_motion2/lib/play_motion2/play_motion2_node_test" to ""
+[21.674s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/include
+[21.674s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/include/play_motion2
+[21.674s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/include/play_motion2/motion_loader.hpp
+[21.674s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/include/play_motion2/motion_planner.hpp
+[21.674s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/include/play_motion2/types.hpp
+[21.674s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/include/play_motion2/play_motion2.hpp
+[21.674s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/play_motion2/environment/library_path.sh
+[21.674s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/play_motion2/environment/library_path.dsv
+[21.674s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/lib/libplay_motion2.so
+[21.680s] -- Set runtime path of "/home/luca/topic-highlight/exam_ws/install/play_motion2/lib/libplay_motion2.so" to ""
+[21.680s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/lib/librrbot_system.so
+[21.680s] -- Set runtime path of "/home/luca/topic-highlight/exam_ws/install/play_motion2/lib/librrbot_system.so" to ""
+[21.680s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/lib/play_motion2/play_motion2_node
+[21.680s] -- Set runtime path of "/home/luca/topic-highlight/exam_ws/install/play_motion2/lib/play_motion2/play_motion2_node" to ""
+[21.680s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/play_motion2/config
+[21.680s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/play_motion2/config/motion_planner_config.yaml
+[21.680s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/play_motion2/launch
+[21.681s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/play_motion2/launch/play_motion2.launch.py
+[21.681s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/ament_index/resource_index/package_run_dependencies/play_motion2
+[21.681s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/ament_index/resource_index/parent_prefix_path/play_motion2
+[21.681s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/play_motion2/environment/ament_prefix_path.sh
+[21.681s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/play_motion2/environment/ament_prefix_path.dsv
+[21.681s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/play_motion2/environment/path.sh
+[21.682s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/play_motion2/environment/path.dsv
+[21.682s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/play_motion2/local_setup.bash
+[21.682s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/play_motion2/local_setup.sh
+[21.682s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/play_motion2/local_setup.zsh
+[21.682s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/play_motion2/local_setup.dsv
+[21.682s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/play_motion2/package.dsv
+[21.682s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/ament_index/resource_index/packages/play_motion2
+[21.682s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/play_motion2
+[21.682s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/play_motion2/cmake/ament_cmake_export_dependencies-extras.cmake
+[21.682s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/play_motion2/cmake/ament_cmake_export_include_directories-extras.cmake
+[21.682s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/play_motion2/cmake/ament_cmake_export_libraries-extras.cmake
+[21.682s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/play_motion2/cmake/play_motion2Config.cmake
+[21.682s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/play_motion2/cmake/play_motion2Config-version.cmake
+[21.682s] -- Installing: /home/luca/topic-highlight/exam_ws/install/play_motion2/share/play_motion2/package.xml
+[21.684s] Invoked command in '/home/luca/topic-highlight/exam_ws/build/play_motion2' returned '0': AMENT_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/play_motion2_msgs:/home/luca/topic-highlight/exam_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/play_motion2_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/luca/topic-highlight/exam_ws/install/play_motion2_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/luca/topic-highlight/exam_ws/install/play_motion2_msgs/local/lib/python3.10/dist-packages:/home/luca/topic-highlight/exam_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/luca/topic-highlight/exam_ws/build/play_motion2

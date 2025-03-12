@@ -1,0 +1,15 @@
+/home/luca/topic-highlight/exam_ws/install/tiago_navigation/share/ament_index/resource_index/package_run_dependencies/tiago_navigation
+/home/luca/topic-highlight/exam_ws/install/tiago_navigation/share/ament_index/resource_index/parent_prefix_path/tiago_navigation
+/home/luca/topic-highlight/exam_ws/install/tiago_navigation/share/tiago_navigation/environment/ament_prefix_path.sh
+/home/luca/topic-highlight/exam_ws/install/tiago_navigation/share/tiago_navigation/environment/ament_prefix_path.dsv
+/home/luca/topic-highlight/exam_ws/install/tiago_navigation/share/tiago_navigation/environment/path.sh
+/home/luca/topic-highlight/exam_ws/install/tiago_navigation/share/tiago_navigation/environment/path.dsv
+/home/luca/topic-highlight/exam_ws/install/tiago_navigation/share/tiago_navigation/local_setup.bash
+/home/luca/topic-highlight/exam_ws/install/tiago_navigation/share/tiago_navigation/local_setup.sh
+/home/luca/topic-highlight/exam_ws/install/tiago_navigation/share/tiago_navigation/local_setup.zsh
+/home/luca/topic-highlight/exam_ws/install/tiago_navigation/share/tiago_navigation/local_setup.dsv
+/home/luca/topic-highlight/exam_ws/install/tiago_navigation/share/tiago_navigation/package.dsv
+/home/luca/topic-highlight/exam_ws/install/tiago_navigation/share/ament_index/resource_index/packages/tiago_navigation
+/home/luca/topic-highlight/exam_ws/install/tiago_navigation/share/tiago_navigation/cmake/tiago_navigationConfig.cmake
+/home/luca/topic-highlight/exam_ws/install/tiago_navigation/share/tiago_navigation/cmake/tiago_navigationConfig-version.cmake
+/home/luca/topic-highlight/exam_ws/install/tiago_navigation/share/tiago_navigation/package.xml

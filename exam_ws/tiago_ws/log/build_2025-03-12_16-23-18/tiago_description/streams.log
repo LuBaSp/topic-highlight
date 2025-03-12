@@ -1,0 +1,160 @@
+[0.015s] Invoking command in '/home/luca/topic-highlight/exam_ws/build/tiago_description': AMENT_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/pmb2_description:/home/luca/topic-highlight/exam_ws/install/tiago_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pmb2_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_hey5_description:/home/luca/topic-highlight/exam_ws/install/pal_gripper_description:/home/luca/topic-highlight/exam_ws/install/urdf_test:/home/luca/topic-highlight/exam_ws/install/pal_urdf_utils:/home/luca/topic-highlight/exam_ws/install/pal_robotiq_description:/home/luca/topic-highlight/exam_ws/install/pal_robotiq_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_hey5_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_gripper_controller_configuration:/home/luca/topic-highlight/exam_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/pmb2_description:/home/luca/topic-highlight/exam_ws/install/tiago_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pmb2_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_hey5_description:/home/luca/topic-highlight/exam_ws/install/pal_gripper_description:/home/luca/topic-highlight/exam_ws/install/urdf_test:/home/luca/topic-highlight/exam_ws/install/pal_urdf_utils:/home/luca/topic-highlight/exam_ws/install/pal_robotiq_description:/home/luca/topic-highlight/exam_ws/install/pal_robotiq_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_hey5_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_gripper_controller_configuration:/opt/ros/humble PYTHONPATH=/home/luca/topic-highlight/exam_ws/install/pmb2_description/local/lib/python3.10/dist-packages:/home/luca/topic-highlight/exam_ws/install/urdf_test/local/lib/python3.10/dist-packages:/home/luca/topic-highlight/exam_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake /home/luca/topic-highlight/exam_ws/src/tiago_robot/tiago_description -DCMAKE_INSTALL_PREFIX=/home/luca/topic-highlight/exam_ws/install/tiago_description
+[0.057s] -- The C compiler identification is GNU 11.4.0
+[0.097s] -- The CXX compiler identification is GNU 11.4.0
+[0.104s] -- Detecting C compiler ABI info
+[0.161s] -- Detecting C compiler ABI info - done
+[0.166s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.166s] -- Detecting C compile features
+[0.167s] -- Detecting C compile features - done
+[0.169s] -- Detecting CXX compiler ABI info
+[0.224s] -- Detecting CXX compiler ABI info - done
+[0.230s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.231s] -- Detecting CXX compile features
+[0.231s] -- Detecting CXX compile features - done
+[0.233s] -- Found ament_cmake_auto: 1.3.11 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[0.519s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.648s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.670s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[0.688s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[0.700s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[0.700s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.700s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[0.700s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[0.719s] -- Found PythonExtra: .so  
+[0.747s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.754s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.755s] -- Added test 'lint_cmake' to check CMake code style
+[0.756s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.758s] -- Added test 'xmllint' to check XML markup files
+[0.759s] -- Configuring done
+[0.762s] -- Generating done
+[0.763s] -- Build files have been written to: /home/luca/topic-highlight/exam_ws/build/tiago_description
+[0.768s] Invoked command in '/home/luca/topic-highlight/exam_ws/build/tiago_description' returned '0': AMENT_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/pmb2_description:/home/luca/topic-highlight/exam_ws/install/tiago_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pmb2_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_hey5_description:/home/luca/topic-highlight/exam_ws/install/pal_gripper_description:/home/luca/topic-highlight/exam_ws/install/urdf_test:/home/luca/topic-highlight/exam_ws/install/pal_urdf_utils:/home/luca/topic-highlight/exam_ws/install/pal_robotiq_description:/home/luca/topic-highlight/exam_ws/install/pal_robotiq_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_hey5_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_gripper_controller_configuration:/home/luca/topic-highlight/exam_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/pmb2_description:/home/luca/topic-highlight/exam_ws/install/tiago_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pmb2_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_hey5_description:/home/luca/topic-highlight/exam_ws/install/pal_gripper_description:/home/luca/topic-highlight/exam_ws/install/urdf_test:/home/luca/topic-highlight/exam_ws/install/pal_urdf_utils:/home/luca/topic-highlight/exam_ws/install/pal_robotiq_description:/home/luca/topic-highlight/exam_ws/install/pal_robotiq_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_hey5_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_gripper_controller_configuration:/opt/ros/humble PYTHONPATH=/home/luca/topic-highlight/exam_ws/install/pmb2_description/local/lib/python3.10/dist-packages:/home/luca/topic-highlight/exam_ws/install/urdf_test/local/lib/python3.10/dist-packages:/home/luca/topic-highlight/exam_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake /home/luca/topic-highlight/exam_ws/src/tiago_robot/tiago_description -DCMAKE_INSTALL_PREFIX=/home/luca/topic-highlight/exam_ws/install/tiago_description
+[0.770s] Invoking command in '/home/luca/topic-highlight/exam_ws/build/tiago_description': AMENT_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/pmb2_description:/home/luca/topic-highlight/exam_ws/install/tiago_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pmb2_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_hey5_description:/home/luca/topic-highlight/exam_ws/install/pal_gripper_description:/home/luca/topic-highlight/exam_ws/install/urdf_test:/home/luca/topic-highlight/exam_ws/install/pal_urdf_utils:/home/luca/topic-highlight/exam_ws/install/pal_robotiq_description:/home/luca/topic-highlight/exam_ws/install/pal_robotiq_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_hey5_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_gripper_controller_configuration:/home/luca/topic-highlight/exam_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/pmb2_description:/home/luca/topic-highlight/exam_ws/install/tiago_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pmb2_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_hey5_description:/home/luca/topic-highlight/exam_ws/install/pal_gripper_description:/home/luca/topic-highlight/exam_ws/install/urdf_test:/home/luca/topic-highlight/exam_ws/install/pal_urdf_utils:/home/luca/topic-highlight/exam_ws/install/pal_robotiq_description:/home/luca/topic-highlight/exam_ws/install/pal_robotiq_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_hey5_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_gripper_controller_configuration:/opt/ros/humble PYTHONPATH=/home/luca/topic-highlight/exam_ws/install/pmb2_description/local/lib/python3.10/dist-packages:/home/luca/topic-highlight/exam_ws/install/urdf_test/local/lib/python3.10/dist-packages:/home/luca/topic-highlight/exam_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/luca/topic-highlight/exam_ws/build/tiago_description -- -j20 -l20
+[0.813s] Built target ament_cmake_python_copy_tiago_description
+[0.978s] running egg_info
+[0.989s] creating tiago_description.egg-info
+[0.990s] writing tiago_description.egg-info/PKG-INFO
+[0.990s] writing dependency_links to tiago_description.egg-info/dependency_links.txt
+[0.990s] writing top-level names to tiago_description.egg-info/top_level.txt
+[0.990s] writing manifest file 'tiago_description.egg-info/SOURCES.txt'
+[1.028s] reading manifest file 'tiago_description.egg-info/SOURCES.txt'
+[1.028s] writing manifest file 'tiago_description.egg-info/SOURCES.txt'
+[1.052s] Built target ament_cmake_python_build_tiago_description_egg
+[1.060s] Invoked command in '/home/luca/topic-highlight/exam_ws/build/tiago_description' returned '0': AMENT_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/pmb2_description:/home/luca/topic-highlight/exam_ws/install/tiago_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pmb2_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_hey5_description:/home/luca/topic-highlight/exam_ws/install/pal_gripper_description:/home/luca/topic-highlight/exam_ws/install/urdf_test:/home/luca/topic-highlight/exam_ws/install/pal_urdf_utils:/home/luca/topic-highlight/exam_ws/install/pal_robotiq_description:/home/luca/topic-highlight/exam_ws/install/pal_robotiq_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_hey5_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_gripper_controller_configuration:/home/luca/topic-highlight/exam_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/pmb2_description:/home/luca/topic-highlight/exam_ws/install/tiago_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pmb2_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_hey5_description:/home/luca/topic-highlight/exam_ws/install/pal_gripper_description:/home/luca/topic-highlight/exam_ws/install/urdf_test:/home/luca/topic-highlight/exam_ws/install/pal_urdf_utils:/home/luca/topic-highlight/exam_ws/install/pal_robotiq_description:/home/luca/topic-highlight/exam_ws/install/pal_robotiq_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_hey5_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_gripper_controller_configuration:/opt/ros/humble PYTHONPATH=/home/luca/topic-highlight/exam_ws/install/pmb2_description/local/lib/python3.10/dist-packages:/home/luca/topic-highlight/exam_ws/install/urdf_test/local/lib/python3.10/dist-packages:/home/luca/topic-highlight/exam_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/luca/topic-highlight/exam_ws/build/tiago_description -- -j20 -l20
+[1.061s] Invoking command in '/home/luca/topic-highlight/exam_ws/build/tiago_description': AMENT_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/pmb2_description:/home/luca/topic-highlight/exam_ws/install/tiago_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pmb2_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_hey5_description:/home/luca/topic-highlight/exam_ws/install/pal_gripper_description:/home/luca/topic-highlight/exam_ws/install/urdf_test:/home/luca/topic-highlight/exam_ws/install/pal_urdf_utils:/home/luca/topic-highlight/exam_ws/install/pal_robotiq_description:/home/luca/topic-highlight/exam_ws/install/pal_robotiq_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_hey5_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_gripper_controller_configuration:/home/luca/topic-highlight/exam_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/pmb2_description:/home/luca/topic-highlight/exam_ws/install/tiago_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pmb2_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_hey5_description:/home/luca/topic-highlight/exam_ws/install/pal_gripper_description:/home/luca/topic-highlight/exam_ws/install/urdf_test:/home/luca/topic-highlight/exam_ws/install/pal_urdf_utils:/home/luca/topic-highlight/exam_ws/install/pal_robotiq_description:/home/luca/topic-highlight/exam_ws/install/pal_robotiq_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_hey5_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_gripper_controller_configuration:/opt/ros/humble PYTHONPATH=/home/luca/topic-highlight/exam_ws/install/pmb2_description/local/lib/python3.10/dist-packages:/home/luca/topic-highlight/exam_ws/install/urdf_test/local/lib/python3.10/dist-packages:/home/luca/topic-highlight/exam_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/luca/topic-highlight/exam_ws/build/tiago_description
+[1.066s] -- Install configuration: ""
+[1.066s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/environment/pythonpath.sh
+[1.066s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/environment/pythonpath.dsv
+[1.067s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/local/lib/python3.10/dist-packages/tiago_description-4.2.4-py3.10.egg-info
+[1.067s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/local/lib/python3.10/dist-packages/tiago_description-4.2.4-py3.10.egg-info/SOURCES.txt
+[1.067s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/local/lib/python3.10/dist-packages/tiago_description-4.2.4-py3.10.egg-info/PKG-INFO
+[1.067s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/local/lib/python3.10/dist-packages/tiago_description-4.2.4-py3.10.egg-info/dependency_links.txt
+[1.067s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/local/lib/python3.10/dist-packages/tiago_description-4.2.4-py3.10.egg-info/top_level.txt
+[1.067s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/local/lib/python3.10/dist-packages/tiago_description
+[1.067s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/local/lib/python3.10/dist-packages/tiago_description/tiago_launch_utils.py
+[1.067s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/local/lib/python3.10/dist-packages/tiago_description/__init__.py
+[1.093s] Listing '/home/luca/topic-highlight/exam_ws/install/tiago_description/local/lib/python3.10/dist-packages/tiago_description'...
+[1.093s] Compiling '/home/luca/topic-highlight/exam_ws/install/tiago_description/local/lib/python3.10/dist-packages/tiago_description/__init__.py'...
+[1.093s] Compiling '/home/luca/topic-highlight/exam_ws/install/tiago_description/local/lib/python3.10/dist-packages/tiago_description/tiago_launch_utils.py'...
+[1.097s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/gazebo
+[1.097s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/gazebo/gazebo.urdf.xacro
+[1.097s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/launch
+[1.097s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/launch/robot_state_publisher.launch.py
+[1.097s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/launch/show.launch.py
+[1.098s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes
+[1.098s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/sensors
+[1.098s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/sensors/xtion_pro_live
+[1.098s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/sensors/xtion_pro_live/xtion_pro_live.dae
+[1.098s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/sensors/xtion_pro_live/xtion_pro_live.png
+[1.099s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/torso
+[1.099s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/torso/torso_lift_with_arm.stl
+[1.099s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/torso/torso_lift_collision.dae
+[1.099s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/torso/torso_fix.stl
+[1.100s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/torso/torso_lift_collision_shoulder.dae
+[1.100s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/torso/torso_lift_collision_neck.dae
+[1.101s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/torso/torso_lift_collision_core.dae
+[1.101s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/torso/torso_lift_without_arm.stl
+[1.101s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/head
+[1.101s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/head/head_2.stl
+[1.102s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/head/head_2_collision.dae
+[1.102s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/head/head_1.stl
+[1.102s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/head/head_1_collision.dae
+[1.103s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm
+[1.103s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_4_normals.png
+[1.104s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_2_normals.png
+[1.104s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_3_collision.dae
+[1.105s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_6_collision-wrist-2017.dae
+[1.105s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_6-wrist-2017.stl
+[1.105s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_2_specular.png
+[1.105s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_5_collision-wrist-2010.dae
+[1.105s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_4_specular.png
+[1.106s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_4_collision.dae
+[1.106s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_4_collision.stl
+[1.106s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_2.stl
+[1.107s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_1.stl
+[1.108s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_3_color.png
+[1.108s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_6_collision-wrist-2010.dae
+[1.108s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_6_color.png
+[1.109s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_1_specular.png
+[1.109s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_1_color.png
+[1.109s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_3.stl
+[1.110s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_2_collision.dae
+[1.110s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_6-wrist-2010.stl
+[1.110s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_5_collision-wrist-2017.dae
+[1.110s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_5-wrist-2010.stl
+[1.111s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_4_color.png
+[1.111s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_5-wrist-2017.stl
+[1.112s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_1_collision.dae
+[1.112s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_3_specular.png
+[1.112s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_6_specular.png
+[1.113s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_4.stl
+[1.113s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_6_normals.png
+[1.113s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_1_normals.png
+[1.114s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_2_color.png
+[1.115s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/meshes/arm/arm_3_normals.png
+[1.116s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/robots
+[1.116s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/robots/tiago.urdf.xacro
+[1.116s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/ros2_control
+[1.116s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/ros2_control/transmissions.urdf.xacro
+[1.116s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/ros2_control/ros2_control.urdf.xacro
+[1.116s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/urdf
+[1.117s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/urdf/sensors
+[1.117s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/urdf/sensors/openni.gazebo.xacro
+[1.117s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/urdf/sensors/sensors.ros2_control.xacro
+[1.117s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/urdf/sensors/xtion_pro_live.urdf.xacro
+[1.117s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/urdf/sensors/ftsensor.urdf.xacro
+[1.117s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/urdf/sensors/orbbec_astra.urdf.xacro
+[1.117s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/urdf/sensors/ftsensor.gazebo.xacro
+[1.117s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/urdf/torso
+[1.118s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/urdf/torso/torso.urdf.xacro
+[1.118s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/urdf/torso/torso.ros2_control.xacro
+[1.118s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/urdf/end_effector
+[1.118s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/urdf/end_effector/end_effector.urdf.xacro
+[1.118s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/urdf/calibration
+[1.118s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/urdf/calibration/extrinsic_camera_calibration_constants.urdf.xacro
+[1.119s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/urdf/calibration/calibration_constants.urdf.xacro
+[1.119s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/urdf/head
+[1.119s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/urdf/head/head.ros2_control.xacro
+[1.119s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/urdf/head/head.urdf.xacro
+[1.120s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/urdf/arm
+[1.120s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/urdf/arm/arm.ros2_control.xacro
+[1.120s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/urdf/arm/wrist.urdf.xacro
+[1.120s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/urdf/arm/wrist.ros2_control.xacro
+[1.120s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/urdf/arm/arm.urdf.xacro
+[1.121s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/ament_index/resource_index/package_run_dependencies/tiago_description
+[1.121s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/ament_index/resource_index/parent_prefix_path/tiago_description
+[1.121s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/environment/ament_prefix_path.sh
+[1.121s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/environment/ament_prefix_path.dsv
+[1.121s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/environment/path.sh
+[1.121s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/environment/path.dsv
+[1.122s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/local_setup.bash
+[1.122s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/local_setup.sh
+[1.122s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/local_setup.zsh
+[1.122s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/local_setup.dsv
+[1.122s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/package.dsv
+[1.122s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/ament_index/resource_index/packages/tiago_description
+[1.122s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/cmake/tiago_descriptionConfig.cmake
+[1.123s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/cmake/tiago_descriptionConfig-version.cmake
+[1.123s] -- Installing: /home/luca/topic-highlight/exam_ws/install/tiago_description/share/tiago_description/package.xml
+[1.125s] Invoked command in '/home/luca/topic-highlight/exam_ws/build/tiago_description' returned '0': AMENT_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/pmb2_description:/home/luca/topic-highlight/exam_ws/install/tiago_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pmb2_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_hey5_description:/home/luca/topic-highlight/exam_ws/install/pal_gripper_description:/home/luca/topic-highlight/exam_ws/install/urdf_test:/home/luca/topic-highlight/exam_ws/install/pal_urdf_utils:/home/luca/topic-highlight/exam_ws/install/pal_robotiq_description:/home/luca/topic-highlight/exam_ws/install/pal_robotiq_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_hey5_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_gripper_controller_configuration:/home/luca/topic-highlight/exam_ws/install/launch_pal:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/luca/topic-highlight/exam_ws/install/pmb2_description:/home/luca/topic-highlight/exam_ws/install/tiago_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pmb2_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_hey5_description:/home/luca/topic-highlight/exam_ws/install/pal_gripper_description:/home/luca/topic-highlight/exam_ws/install/urdf_test:/home/luca/topic-highlight/exam_ws/install/pal_urdf_utils:/home/luca/topic-highlight/exam_ws/install/pal_robotiq_description:/home/luca/topic-highlight/exam_ws/install/pal_robotiq_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_hey5_controller_configuration:/home/luca/topic-highlight/exam_ws/install/pal_gripper_controller_configuration:/opt/ros/humble PYTHONPATH=/home/luca/topic-highlight/exam_ws/install/pmb2_description/local/lib/python3.10/dist-packages:/home/luca/topic-highlight/exam_ws/install/urdf_test/local/lib/python3.10/dist-packages:/home/luca/topic-highlight/exam_ws/install/launch_pal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/luca/topic-highlight/exam_ws/build/tiago_description

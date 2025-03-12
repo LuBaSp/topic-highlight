@@ -1,0 +1,15 @@
+/home/luca/topic-highlight/exam_ws/install/pmb2_navigation/share/ament_index/resource_index/package_run_dependencies/pmb2_navigation
+/home/luca/topic-highlight/exam_ws/install/pmb2_navigation/share/ament_index/resource_index/parent_prefix_path/pmb2_navigation
+/home/luca/topic-highlight/exam_ws/install/pmb2_navigation/share/pmb2_navigation/environment/ament_prefix_path.sh
+/home/luca/topic-highlight/exam_ws/install/pmb2_navigation/share/pmb2_navigation/environment/ament_prefix_path.dsv
+/home/luca/topic-highlight/exam_ws/install/pmb2_navigation/share/pmb2_navigation/environment/path.sh
+/home/luca/topic-highlight/exam_ws/install/pmb2_navigation/share/pmb2_navigation/environment/path.dsv
+/home/luca/topic-highlight/exam_ws/install/pmb2_navigation/share/pmb2_navigation/local_setup.bash
+/home/luca/topic-highlight/exam_ws/install/pmb2_navigation/share/pmb2_navigation/local_setup.sh
+/home/luca/topic-highlight/exam_ws/install/pmb2_navigation/share/pmb2_navigation/local_setup.zsh
+/home/luca/topic-highlight/exam_ws/install/pmb2_navigation/share/pmb2_navigation/local_setup.dsv
+/home/luca/topic-highlight/exam_ws/install/pmb2_navigation/share/pmb2_navigation/package.dsv
+/home/luca/topic-highlight/exam_ws/install/pmb2_navigation/share/ament_index/resource_index/packages/pmb2_navigation
+/home/luca/topic-highlight/exam_ws/install/pmb2_navigation/share/pmb2_navigation/cmake/pmb2_navigationConfig.cmake
+/home/luca/topic-highlight/exam_ws/install/pmb2_navigation/share/pmb2_navigation/cmake/pmb2_navigationConfig-version.cmake
+/home/luca/topic-highlight/exam_ws/install/pmb2_navigation/share/pmb2_navigation/package.xml

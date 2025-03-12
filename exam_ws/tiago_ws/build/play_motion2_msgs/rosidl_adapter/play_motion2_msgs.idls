@@ -1,0 +1,3 @@
+/home/luca/topic-highlight/exam_ws/build/play_motion2_msgs/rosidl_adapter/play_motion2_msgs:action/PlayMotion2.idl
+/home/luca/topic-highlight/exam_ws/build/play_motion2_msgs/rosidl_adapter/play_motion2_msgs:srv/IsMotionReady.idl
+/home/luca/topic-highlight/exam_ws/build/play_motion2_msgs/rosidl_adapter/play_motion2_msgs:srv/ListMotions.idl

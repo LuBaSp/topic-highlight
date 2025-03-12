@@ -1,0 +1,9 @@
+/home/luca/topic-highlight/exam_ws/build/tiago_controller_configuration/CMakeFiles/uninstall.dir
+/home/luca/topic-highlight/exam_ws/build/tiago_controller_configuration/CMakeFiles/tiago_controller_configuration_uninstall.dir
+/home/luca/topic-highlight/exam_ws/build/tiago_controller_configuration/CMakeFiles/test.dir
+/home/luca/topic-highlight/exam_ws/build/tiago_controller_configuration/CMakeFiles/edit_cache.dir
+/home/luca/topic-highlight/exam_ws/build/tiago_controller_configuration/CMakeFiles/rebuild_cache.dir
+/home/luca/topic-highlight/exam_ws/build/tiago_controller_configuration/CMakeFiles/list_install_components.dir
+/home/luca/topic-highlight/exam_ws/build/tiago_controller_configuration/CMakeFiles/install.dir
+/home/luca/topic-highlight/exam_ws/build/tiago_controller_configuration/CMakeFiles/install/local.dir
+/home/luca/topic-highlight/exam_ws/build/tiago_controller_configuration/CMakeFiles/install/strip.dir
