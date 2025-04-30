@@ -1,6 +1,0 @@
-Invoking command in '/home/luca/topic-highlight/exam_ws/build/urdf_test': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/luca/topic-highlight/exam_ws/src/urdf_test -DCMAKE_INSTALL_PREFIX=/home/luca/topic-highlight/exam_ws/install/urdf_test
-Invoked command in '/home/luca/topic-highlight/exam_ws/build/urdf_test' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/luca/topic-highlight/exam_ws/src/urdf_test -DCMAKE_INSTALL_PREFIX=/home/luca/topic-highlight/exam_ws/install/urdf_test
-Invoking command in '/home/luca/topic-highlight/exam_ws/build/urdf_test': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/luca/topic-highlight/exam_ws/build/urdf_test -- -j20 -l20
-Invoked command in '/home/luca/topic-highlight/exam_ws/build/urdf_test' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/luca/topic-highlight/exam_ws/build/urdf_test -- -j20 -l20
-Invoking command in '/home/luca/topic-highlight/exam_ws/build/urdf_test': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/luca/topic-highlight/exam_ws/build/urdf_test
-Invoked command in '/home/luca/topic-highlight/exam_ws/build/urdf_test' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/luca/topic-highlight/exam_ws/build/urdf_test

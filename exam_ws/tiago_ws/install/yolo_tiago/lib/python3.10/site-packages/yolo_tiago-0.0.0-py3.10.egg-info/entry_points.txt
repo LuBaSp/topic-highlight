@@ -1,2 +1,0 @@
-[console_scripts]
-yolo_tiago_node = yolo_tiago.yolo_tiago_node:main

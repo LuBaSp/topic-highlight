@@ -1,9 +1,0 @@
-/home/luca/topic-highlight/exam_ws/build/tiago_bringup/CMakeFiles/uninstall.dir
-/home/luca/topic-highlight/exam_ws/build/tiago_bringup/CMakeFiles/tiago_bringup_uninstall.dir
-/home/luca/topic-highlight/exam_ws/build/tiago_bringup/CMakeFiles/test.dir
-/home/luca/topic-highlight/exam_ws/build/tiago_bringup/CMakeFiles/edit_cache.dir
-/home/luca/topic-highlight/exam_ws/build/tiago_bringup/CMakeFiles/rebuild_cache.dir
-/home/luca/topic-highlight/exam_ws/build/tiago_bringup/CMakeFiles/list_install_components.dir
-/home/luca/topic-highlight/exam_ws/build/tiago_bringup/CMakeFiles/install.dir
-/home/luca/topic-highlight/exam_ws/build/tiago_bringup/CMakeFiles/install/local.dir
-/home/luca/topic-highlight/exam_ws/build/tiago_bringup/CMakeFiles/install/strip.dir
