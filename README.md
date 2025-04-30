@@ -1,3 +1,10 @@
+# ⚠️ IMPORTANT ⚠️
+
+👉 **Before you start**, go to the **`TUTORIAL_FOR_EXECUTION`** folder to see **how to build and set up the project**.  
+It contains all the necessary instructions to run the system correctly.
+
+---
+
 # TIAGO SLAM and Tracking
 
 ## Overview
@@ -63,3 +70,4 @@ To extend the system's capabilities, several research directions are proposed:
 - **Reinforcement Learning**: Adaptive behavior strategies for exploration and pursuit.
 
 ---
+
