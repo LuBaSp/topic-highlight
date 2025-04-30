@@ -1,6 +1,0 @@
-[submodule "material/yolov5"]
-	path = material/yolov5
-	url = https://github.com/ultralytics/yolov5
-[submodule "exam_ws/src"]
-	path = exam_ws/src
-	url = https://github.com/ljuba1996/TiagoWorkspace.git
